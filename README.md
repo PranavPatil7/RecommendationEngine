@@ -1,6 +1,6 @@
 # Million Songs Dataset - Recommendation Engine
 
-**Complete Video Tutorial:** https://youtu.be/aHdgGnlIewk
+
 
 # Dataset Information
 
@@ -12,7 +12,7 @@ There are 3 types of recommendation system: content-based, collaborative and pop
 https://static.turi.com/datasets/millionsong/10000.txt
 https://static.turi.com/datasets/millionsong/song_data.csv
 
-**Note:** Please check the repository for dataset files if the links are not working
+
 
 # Libraries
 
